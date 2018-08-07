@@ -1,9 +1,9 @@
 x= 15
 
 if x % 3 == 0
-  print "fizz"
+  print "fizzbuzz"
 elsif x % 5 == 0 
-print "Fizzbuzz"
+print "Fizz"
 elsif x % 3 == 0 && x % 5 == 0 
 print "buzz"
 end 
