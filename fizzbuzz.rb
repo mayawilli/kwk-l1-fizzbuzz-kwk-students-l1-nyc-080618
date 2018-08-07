@@ -1,3 +1,5 @@
+x=15
+
 if x % 3 == 02
   print "fizz"
 elsif x % 5 == 0 
